@@ -1,1 +1,5 @@
-# FifaWorldCup2022_API_SiteWeb
+# FifaWorldCup2022_API_SiteWe
+LIBRERIE 
+- axios 
+- bootstrap
+- google font
